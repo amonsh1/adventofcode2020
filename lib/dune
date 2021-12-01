@@ -1,0 +1,5 @@
+(include_subdirs unqualified)
+
+(library
+  (name impl)
+  (modules utils day1 day2 day3 day4 day6 day8 day9))

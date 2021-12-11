@@ -20,5 +20,5 @@ let () =
   Impl.Day9.test_part2 "../../../lib/day9/input";
 
 
-  
+  Impl.Day11.test_part1 "../../../lib/day11/input";
 
